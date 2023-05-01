@@ -1,0 +1,19 @@
+EmpID,Dept,Level,Post,BasicPay,ProfitShare
+EID02,SAL,Mgmt,Sales Mgr,4200,0.04
+EID06,ADM,Exec,Snr Admin Asst,1500,0.01
+EID07,PRD,Exec,Project Asst,2000,0.025
+EID08,SAL,Mgmt,Asst Sales Mgr,2900,0.02
+EID10,PRD,Mgmt,Project Mgr,4500,0.04
+EID11,PRD,Exec,Snr Project Asst,1900,0.03
+EID15,ADM,Exec,Admin Asst,1300,0.01
+EID16,PRD,Exec,Snr Project Asst,2200,0.03
+EID17,ACC,Exec,Accountant,2500,0.015
+EID18,PRD,Exec,Project Asst,1600,0.025
+EID19,SAL,Exec,Sales Asst,1800,0.02
+EID20,PRD,Mgmt,Project Mgr,4200,0.04
+EID22,PRD,Exec,Project Asst,1950,0.025
+EID23,ADM,Exec,Admin Asst,1250,0.01
+EID24,SAL,Exec,Sales Asst,1800,0.02
+EID26,PRD,Exec,Project Asst,1750,0.025
+EID27,ADM,Mgmt,Admin Mgr,2300,0.015
+EID28,PRD,Exec,Project Asst,1900,0.025
